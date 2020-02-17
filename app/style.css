@@ -1,0 +1,19 @@
+html, body {
+    color: white!important;
+}
+a {
+
+}
+h1, a {
+    color: #fff!important;
+}
+body {
+    background: #343a40!important;
+}
+.page_button .btn-info {
+    float: right;
+}
+.pagination a.selected {
+    font-weight:bold;
+    color: dodgerblue!important;
+}
